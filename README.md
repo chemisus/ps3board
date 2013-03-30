@@ -16,6 +16,7 @@ the following specs:
 * Fedora 18 (KDE)
 * Kernel: 3.8.4-202.fc18.x86_64
 * gcc (GCC) 4.7.2
+* The controller must be plugged in via usb, and the device file at /dev/input/js0
 
 ## Compiling
 
@@ -159,4 +160,4 @@ There are of course going to be issues with a new project. Some of the following
 
 * No zero key available.
 * Can not click and focus into another window.
-
+* The controller must be plugged in via usb.
