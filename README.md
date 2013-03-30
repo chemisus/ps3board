@@ -84,7 +84,7 @@ The character selected out of the nine depends on the position of the [Left Anal
 the [Triangle], [Circle], [Square], or [X] button.
 
 For example, to enter the letter "t", move the [Left Analog] to the 8th position (directly up) and press [X].
-This combination can be referred to as <8X>, representing the 8th position on the [Left Analog] map and the [X] button.
+This combination can be referred to as < 8X >, representing the 8th position on the [Left Analog] map and the [X] button.
 
 The following are the shorthand representations for the buttons:
 
